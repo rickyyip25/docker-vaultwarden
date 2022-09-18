@@ -1,5 +1,6 @@
 # Local config
 .env
+docker-compose.yml
 
 # Local data
 data/**
