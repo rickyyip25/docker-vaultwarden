@@ -14,7 +14,7 @@ Pull this repository, create configuration file, and then start the services wit
 
 ```sh
 # Create a copy of the sample .env file
-cp .env.dist .env
+cp .env.dist .env && cp docker-compose.dist.yml docker-compose.yml
 
 # Modify the configuration file `.env` if needed
 
