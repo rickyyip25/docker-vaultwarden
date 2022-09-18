@@ -1,0 +1,8 @@
+# Local config
+.env
+
+# Local data
+data/**
+
+# Git files
+!**/.gitkeep
